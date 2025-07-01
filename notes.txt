@@ -1,4 +1,0 @@
-Notes:
-*Add notebook codes to shrink data (less space, VRAM effecient, file named cleaning-*.ipynb) to convert .parquest file format
-*Use original result of v2 dataset from the paper instead of rerun
-*Seem like the result of CSE-v3 is bad due to training not optimize good enough? not long enough?
