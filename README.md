@@ -25,4 +25,18 @@ This paper investigates graph neural networks (GNNs) applied for self-supervised
   publisher={Elsevier}
 }
 ```
-# NIDS_Anomal-E_revision
+
+# NIDS_Anomal-E_Multimodal
+
+## How to set up the environment
+Require Conda, create a new environment using the following command:
+```bash
+conda env create -f environment.yml
+conda activate nids-env # activate the environment
+```
+
+Then install dgl following the instructions on the [DGL website](https://www.dgl.ai/pages/start.html).
+For example, for PyTorch 2.4 and CUDA 12.4, use the following command:
+```bash
+pip install dgl -f https://data.dgl.ai/wheels/torch-2.4/cu124/repo.html
+```

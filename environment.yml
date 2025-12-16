@@ -1,4 +1,4 @@
-name: nlp-env
+name: nids-env
 channels:
   - conda-forge
 dependencies:
@@ -82,7 +82,6 @@ dependencies:
       - cramjam==2.11.0
       - cycler==0.12.1
       - cymem==2.0.11
-      - dgl==2.4.0+cu124
       - fastai==2.7.19
       - fastcore==1.7.29
       - fastdownload==0.0.7
