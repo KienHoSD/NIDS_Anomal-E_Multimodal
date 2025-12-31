@@ -1,4 +1,4 @@
-name: nlp-env
+name: nids-env
 channels:
   - conda-forge
 dependencies:
