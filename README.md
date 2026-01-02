@@ -26,7 +26,7 @@ This paper investigates graph neural networks (GNNs) applied for self-supervised
 }
 ```
 
-# NIDS_Anomal-E_Multimodal
+# NIDS_Fusion-Anomal-E
 
 ## How to set up the environment
 Require Conda, create a new environment using the following command:
